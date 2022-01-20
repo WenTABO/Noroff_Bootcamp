@@ -1,0 +1,15 @@
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\bin\Debug\net6.0\StandardCalculator.exe
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\bin\Debug\net6.0\StandardCalculator.deps.json
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\bin\Debug\net6.0\StandardCalculator.runtimeconfig.json
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\bin\Debug\net6.0\StandardCalculator.dll
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\bin\Debug\net6.0\ref\StandardCalculator.dll
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\bin\Debug\net6.0\StandardCalculator.pdb
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\obj\Debug\net6.0\StandardCalculator.csproj.AssemblyReference.cache
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\obj\Debug\net6.0\StandardCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\obj\Debug\net6.0\StandardCalculator.AssemblyInfoInputs.cache
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\obj\Debug\net6.0\StandardCalculator.AssemblyInfo.cs
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\obj\Debug\net6.0\StandardCalculator.csproj.CoreCompileInputs.cache
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\obj\Debug\net6.0\StandardCalculator.dll
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\obj\Debug\net6.0\ref\StandardCalculator.dll
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\obj\Debug\net6.0\StandardCalculator.pdb
+C:\Users\wendy\OneDrive\Desktop\backend_Courses\Projects\StandardCalculator\obj\Debug\net6.0\StandardCalculator.genruntimeconfig.cache
